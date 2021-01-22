@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Space Invaders</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings for the game-->
+    <string name="game">Game</string>
+    <string name="home">Home</string>
+</resources>
